@@ -375,7 +375,9 @@
       "Frequency": 3200,
       "Price": 104800
     }
-  ],
+  ]
+}
+{
   "POST":[
     {"id":1,
      "Email":"dude@gmail.com",
@@ -396,6 +398,5 @@
     {"id":5,
      "Email":"kurbanbakiev.v@nisa.edu.kz",
      "Password":"|asdas;lkjh5%"
-    }
   ]
 }
