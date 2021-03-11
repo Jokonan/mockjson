@@ -1,74 +1,74 @@
 {
-  "Graphics card": [
+ "Motherboard": [
     {
-      "Model": "GeForce GT 710",
-      "Frequency": 954,
-      "Memory-frequency": 5012,
-      "Memory": 1,
-      "Price": 19900
+      "Socket": "1200",
+      "Chipset": "H470",
+      "Form-factor": "Mini-ITX",
+      "Memory-slot": 2,
+      "Price": 82100
     },
     {
-      "Model": "Radeon RX 6900 XT",
-      "Frequency": 2285,
-      "Memory-frequency": 16000,
-      "Memory": 16,
-      "Price": 819900
+      "Socket": "1200",
+      "Chipset": "B460",
+      "Form-factor": "Mini-ITX",
+      "Memory-slot": 2,
+      "Price": 78200
     },
     {
-      "Model": "GeForce 210",
-      "Frequency": 520,
-      "Memory-frequency": 1200,
-      "Memory": 1,
-      "Price":
+      "Socket": "1511",
+      "Chipset": "B360",
+      "Form-factor": "Mini-ITX",
+      "Memory-slot": 2,
+      "Price": 66100
     },
     {
-      "Model": "GeForce GTX 1650",
-      "Frequency": 1590,
-      "Memory-frequency": 12000,
-      "Memory": 4,
-      "Price": 20500
+      "Socket": "AM4",
+      "Chipset": "H470",
+      "Form-factor": "Micro ATX",
+      "Memory-slot": 4,
+      "Price": 57200
     },
     {
-      "Model": "GeForce GTX 1650",
-      "Frequency": 1785,
-      "Memory-frequency": 12000,
-      "Memory": 4,
-      "Price": 109990
+      "Socket": "AM4",
+      "Chipset": "AMD B450",
+      "Form-factor": "Micro ATX",
+      "Memory-slot": 4,
+      "Price": 53400
     },
     {
-      "Model": "GeForce GTX1050Ti",
-      "Frequency": 1480,
-      "Memory-frequency": 7008,
-      "Memory": 4,
-      "Price": 143900
+      "Socket": "AM4",
+      "Chipset": "AMD B450",
+      "Form-factor": "ATX",
+      "Memory-slot": 4,
+      "Price": 61900
     },
     {
-      "Model": "Radeon RX 550",
-      "Frequency": 1203,
-      "Memory-frequency": 6000,
-      "Memory": 2,
-      "Price": 110900
+      "Socket": "AM4",
+      "Chipset": "Z490",
+      "Form-factor": "ATX",
+      "Memory-slot": 2,
+      "Price": 234200
     },
     {
-      "Model": "GeForce GTX1050Ti",
-      "Frequency": 1455,
-      "Memory-frequency": 7008,
-      "Memory": 4,
-      "Price": 39300
+      "Socket": "LGA1200",
+      "Chipset": "AMD X570",
+      "Form-factor": "ATX",
+      "Memory-slot": 4,
+      "Price": 147400
     },
     {
-      "Model": "Radeon RX 6900 XT",
-      "Frequency": 2340,
-      "Memory-frequency": 16000,
-      "Memory": 16,
-      "Price": 93900
+      "Socket": "LGA1511",
+      "Chipset": "H370",
+      "Form-factor": "Micro ATX",
+      "Memory-slot": 2,
+      "Price": 26900
     },
     {
-      "Model": "GeForce GTX 1650",
-      "Frequency": 1590,
-      "Memory-frequency": 12000,
-      "Memory": 4,
-      "Price": 1129900
+      "Socket": "AM4",
+      "Chipset": "AMD B450",
+      "Form-factor": "Micro ATX",
+      "Memory-slot": 4,
+      "Price": 40800
     }
   ]
 }
