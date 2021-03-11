@@ -1,74 +1,84 @@
 {
- "Motherboard": [
+"CPU": [
     {
-      "Socket": "1200",
-      "Chipset": "H470",
-      "Form-factor": "Mini-ITX",
-      "Memory-slot": 2,
-      "Price": 82100
-    },
-    {
-      "Socket": "1200",
-      "Chipset": "B460",
-      "Form-factor": "Mini-ITX",
-      "Memory-slot": 2,
-      "Price": 78200
-    },
-    {
-      "Socket": "1511",
-      "Chipset": "B360",
-      "Form-factor": "Mini-ITX",
-      "Memory-slot": 2,
-      "Price": 66100
-    },
-    {
-      "Socket": "AM4",
-      "Chipset": "H470",
-      "Form-factor": "Micro ATX",
-      "Memory-slot": 4,
-      "Price": 57200
-    },
-    {
-      "Socket": "AM4",
-      "Chipset": "AMD B450",
-      "Form-factor": "Micro ATX",
-      "Memory-slot": 4,
-      "Price": 53400
-    },
-    {
-      "Socket": "AM4",
-      "Chipset": "AMD B450",
-      "Form-factor": "ATX",
-      "Memory-slot": 4,
-      "Price": 61900
-    },
-    {
-      "Socket": "AM4",
-      "Chipset": "Z490",
-      "Form-factor": "ATX",
-      "Memory-slot": 2,
-      "Price": 234200
-    },
-    {
+      "Model": "Core i5",
+      "type": "10600KF",
       "Socket": "LGA1200",
-      "Chipset": "AMD X570",
-      "Form-factor": "ATX",
-      "Memory-slot": 4,
-      "Price": 147400
+      "Number of cores": 6,
+      "Frequency": 4.1,
+      "Price": 98600
     },
     {
-      "Socket": "LGA1511",
-      "Chipset": "H370",
-      "Form-factor": "Micro ATX",
-      "Memory-slot": 2,
-      "Price": 26900
+      "Model": "Core i5",
+      "type": "9400F",
+      "Socket": "LGA1151",
+      "Number of cores": 6,
+      "Frequency": 2.9,
+      "Price": 67500
     },
     {
+      "Model": "Core i3",
+      "type": "10100F",
+      "Socket": "LGA1200",
+      "Number of cores": 4,
+      "Frequency": 3.6,
+      "Price": 41200
+    },
+    {
+      "Model": "Ryzen 5",
+      "type": "3600",
       "Socket": "AM4",
-      "Chipset": "AMD B450",
-      "Form-factor": "Micro ATX",
-      "Memory-slot": 4,
-      "Price": 40800
+      "Number of cores": 6,
+      "Frequency": 3.6,
+      "Price": 89900
+    },
+    {
+      "Model": "Ryzen 3",
+      "type": "3100",
+      "Socket": "AM4",
+      "Number of cores": 4,
+      "Frequency": 3.6,
+      "Price": 50300
+    },
+    {
+      "Model": "Core i7",
+      "type": "10700",
+      "Socket": "LGA1200",
+      "Number of cores": 8,
+      "Frequency": 2.9,
+      "Price": 153100
+    },
+    {
+      "Model": "Core i5",
+      "type": "9600K",
+      "Socket": "LGA1151",
+      "Number of cores": 6,
+      "Frequency": 3.7,
+      "Price": 112700
+    },
+    {
+      "Model": "Core i7",
+      "type": "9700F",
+      "Socket": "LGA1151",
+      "Number of cores": 8,
+      "Frequency": 3,
+      "Price": 138900
+    },
+    {
+      "Model": "Ryzen 5",
+      "type": "2600",
+      "Socket": "AM4",
+      "Number of cores": 6,
+      "Frequency": 3.4,
+      "Price": 67500
+    },
+    {
+      "Model": "Core i5",
+      "type": "7500",
+      "Socket": "LGA1151",
+      "Number of cores": 4,
+      "Frequency": 3.4,
+      "Price": 100400
     }
-  ]
+  ],
 }
