@@ -80,5 +80,77 @@
       "Frequency": 3.4,
       "Price": 100400
     }
+  ],
+  "Graphics card": [
+    {
+      "Model": "GeForce GT 710",
+      "Frequency": 954,
+      "Memory-frequency": 5012,
+      "Memory": 1,
+      "Price": 19900
+    },
+    {
+      "Model": "Radeon RX 6900 XT",
+      "Frequency": 2285,
+      "Memory-frequency": 16000,
+      "Memory": 16,
+      "Price": 819900
+    },
+    {
+      "Model": "GeForce 210",
+      "Frequency": 520,
+      "Memory-frequency": 1200,
+      "Memory": 1,
+      "Price":
+    },
+    {
+      "Model": "GeForce GTX 1650",
+      "Frequency": 1590,
+      "Memory-frequency": 12000,
+      "Memory": 4,
+      "Price": 20500
+    },
+    {
+      "Model": "GeForce GTX 1650",
+      "Frequency": 1785,
+      "Memory-frequency": 12000,
+      "Memory": 4,
+      "Price": 109990
+    },
+    {
+      "Model": "GeForce GTX1050Ti",
+      "Frequency": 1480,
+      "Memory-frequency": 7008,
+      "Memory": 4,
+      "Price": 143900
+    },
+    {
+      "Model": "Radeon RX 550",
+      "Frequency": 1203,
+      "Memory-frequency": 6000,
+      "Memory": 2,
+      "Price": 110900
+    },
+    {
+      "Model": "GeForce GTX1050Ti",
+      "Frequency": 1455,
+      "Memory-frequency": 7008,
+      "Memory": 4,
+      "Price": 39300
+    },
+    {
+      "Model": "Radeon RX 6900 XT",
+      "Frequency": 2340,
+      "Memory-frequency": 16000,
+      "Memory": 16,
+      "Price": 93900
+    },
+    {
+      "Model": "GeForce GTX 1650",
+      "Frequency": 1590,
+      "Memory-frequency": 12000,
+      "Memory": 4,
+      "Price": 1129900
+    }
   ]
 }
