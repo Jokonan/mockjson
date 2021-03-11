@@ -1,84 +1,84 @@
 {
   "CPU": [
     {
-      "Model":
-      "type":
-      "Socket":
-      "Number of cores":
-      "Frequency":
-      "Price":
+      "Model":"Core i5",
+      "type":"10600KF",
+      "Socket":"LGA1200",
+      "Number of cores":6,
+      "Frequency":4.1,
+      "Price":98600
     },
      {
-      "Model":
-      "type":
-      "Socket":
-      "Number of cores":
-      "Frequency":
-      "Price":
+      "Model":"Core i5",
+      "type":"9400F",
+      "Socket":"LGA1151",
+      "Number of cores":6,
+      "Frequency":2.9,
+      "Price":67500
     },
      {
-      "Model":
-      "type":
-      "Socket":
-      "Number of cores":
-      "Frequency":
-      "Price":
+      "Model":"Core i3",
+      "type":"10100F",
+      "Socket":"LGA1200",
+      "Number of cores":4,
+      "Frequency":3.6,
+      "Price":41200
     },
      {
-      "Model":
-      "type":
-      "Socket":
-      "Number of cores":
-      "Frequency":
-      "Price":
+      "Model":"Ryzen 5",
+      "type":"3600",
+      "Socket":"AM4",
+      "Number of cores":6,
+      "Frequency":3.6,
+      "Price":89900
     },
      {
-      "Model":
-      "type":
-      "Socket":
-      "Number of cores":
-      "Frequency":
-      "Price":
+      "Model":"Ryzen 3",
+      "type":"3100",
+      "Socket":"AM4",
+      "Number of cores":4,
+      "Frequency":3.6,
+      "Price":50300
     },
      {
-      "Model":
-      "type":
-      "Socket":
-      "Number of cores":
-      "Frequency":
-      "Price":
+      "Model":"Core i7",
+      "type":"10700",
+      "Socket":"LGA1200",
+      "Number of cores":8,
+      "Frequency":2.9,
+      "Price":153100
     },
      {
-      "Model":
-      "type":
-      "Socket":
-      "Number of cores":
-      "Frequency":
-      "Price":
+      "Model":"Core i5",
+      "type":"9600K",
+      "Socket":"LGA1151",
+      "Number of cores":6,
+      "Frequency":3.7,
+      "Price":112700
     },
      {
-      "Model":
-      "type":
-      "Socket":
-      "Number of cores":
-      "Frequency":
-      "Price":
+      "Model":"Core i7",
+      "type":"9700F",
+      "Socket":"LGA1151",
+      "Number of cores":8,
+      "Frequency":3,
+      "Price":138900
     },
      {
-      "Model":
-      "type":
-      "Socket":
-      "Number of cores":
-      "Frequency":
-      "Price":
+      "Model":"Ryzen 5",
+      "type":"2600",
+      "Socket":"AM4",
+      "Number of cores":6,
+      "Frequency":3.4,
+      "Price":67500
     },
      {
-      "Model":
-      "type":
-      "Socket":
-      "Number of cores":
-      "Frequency":
-      "Price":
+      "Model":"Core i5",
+      "type":"7500",
+      "Socket":"LGA1151",
+      "Number of cores":4,
+      "Frequency":3.4,
+      "Price":100400
     },
   ],
   
@@ -233,16 +233,148 @@
   
   "Power Supply": [
     {
-    }
+      "Power":
+      "Standart":
+      "SATA connectors":
+      "Brand":
+      "Price":
+    },
+    {
+      "Power":
+      "Standart":
+      "SATA connectors":
+      "Brand":
+      "Price":
+    },
+    {
+      "Power":
+      "Standart":
+      "SATA connectors":
+      "Brand":
+      "Price":
+    },
+    {
+      "Power":
+      "Standart":
+      "SATA connectors":
+      "Brand":
+      "Price":
+    },
+    {
+      "Power":
+      "Standart":
+      "SATA connectors":
+      "Brand":
+      "Price":
+    },
+    {
+      "Power":
+      "Standart":
+      "SATA connectors":
+      "Brand":
+      "Price":
+    },
+    {
+      "Power":
+      "Standart":
+      "SATA connectors":
+      "Brand":
+      "Price":
+    },
+    {
+      "Power":
+      "Standart":
+      "SATA connectors":
+      "Brand":
+      "Price":
+    },
+    {
+      "Power":
+      "Standart":
+      "SATA connectors":
+      "Brand":
+      "Price":
+    },
+    {
+      "Power":
+      "Standart":
+      "SATA connectors":
+      "Brand":
+      "Price":
+    },
+    
   ],
 "RAM":[
   {
+    "Brand":
+    "Type":
+    "Memory":
+    "Frequency":
+    "Price":
+  },
+  {
+    "Brand":
+    "Type":
+    "Memory":
+    "Frequency":
+    "Price":
+  },
+  {
+    "Brand":
+    "Type":
+    "Memory":
+    "Frequency":
+    "Price":
+  },
+  {
+    "Brand":
+    "Type":
+    "Memory":
+    "Frequency":
+    "Price":
+  },
+  {
+    "Brand":
+    "Type":
+    "Memory":
+    "Frequency":
+    "Price":
+  },
+  {
+    "Brand":
+    "Type":
+    "Memory":
+    "Frequency":
+    "Price":
+  },
+  {
+    "Brand":
+    "Type":
+    "Memory":
+    "Frequency":
+    "Price":
+  },
+  {
+    "Brand":
+    "Type":
+    "Memory":
+    "Frequency":
+    "Price":
+  },
+  {
+    "Brand":
+    "Type":
+    "Memory":
+    "Frequency":
+    "Price":
+  },
+  {
+    "Brand":
+    "Type":
+    "Memory":
+    "Frequency":
+    "Price":
   }
 ]
-  
-  
-  
-  
-  
   
 }
