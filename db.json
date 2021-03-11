@@ -1,34 +1,44 @@
 {
-  "posts": [
+  "CPU": [
     {
-      "id": 1,
-      "title": "Post 1",
-      "description": "this is description 1"
+      "Model":
+      "type":
+      "Socket":
+      "Number of cores":
+      "Frequency":
+      "Price":
     },
-    {
-      "id": 2,
-      "title": "Post 2",
-      "description": "this is description 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3",
-      "description": "this is description 3"
-    }
   ],
-  "comments": [
+  
+  
+  "Graphics card": [
     {
       "id": 1,
       "body": "comment 1",
       "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "comment 2",
-      "postId": 1
     }
   ],
-  "profile": {
+  
+  
+  "Motherboard": [
+    {
     "name": "Profile 1"
   }
+                 ],
+  
+  
+  "Power Supply": [
+  {
+}
+],
+"RAM":[
+  {
+}
+]
+  
+  
+  
+  
+  
+  
 }
