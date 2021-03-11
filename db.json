@@ -375,5 +375,11 @@
       "Frequency": 3200,
       "Price": 104800
     }
-  ]
+  ],
+  "POST":[
+    {"id":1,
+     "Email":"dude@gmail.com",
+     "Password":"Qqwerty1!"
+    }
+    ]
 }
