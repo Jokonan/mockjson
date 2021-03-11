@@ -377,26 +377,3 @@
     }
   ]
 }
-{
-  "POST":[
-    {"id":1,
-     "Email":"dude@gmail.com",
-     "Password":"Qqwerty1!"
-    },
-    {"id":2,
-     "Email":"zarsayev.y@nisa.edu.kz",
-     "Password":"Aasdfgh2@"
-    },
-    {"id":3,
-     "Email":"adbdrakhmanov.y@nisa.edu.kz",
-     "Password":"Zzxcvbn3#"
-    },
-    {"id":4,
-     "Email":"daukaraev.d@nisa.edu.kz",
-     "Password":"}][poiuy4$"
-    },
-    {"id":5,
-     "Email":"kurbanbakiev.v@nisa.edu.kz",
-     "Password":"|asdas;lkjh5%"
-  ]
-}
