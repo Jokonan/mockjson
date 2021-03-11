@@ -1,379 +1,379 @@
 {
   "CPU": [
     {
-      "Model":"Core i5",
-      "type":"10600KF",
-      "Socket":"LGA1200",
-      "Number of cores":6,
-      "Frequency":4.1,
-      "Price":98600
+      "Model": "Core i5",
+      "type": "10600KF",
+      "Socket": "LGA1200",
+      "Number of cores": 6,
+      "Frequency": 4.1,
+      "Price": 98600
     },
-     {
-      "Model":"Core i5",
-      "type":"9400F",
-      "Socket":"LGA1151",
-      "Number of cores":6,
-      "Frequency":2.9,
-      "Price":67500
+    {
+      "Model": "Core i5",
+      "type": "9400F",
+      "Socket": "LGA1151",
+      "Number of cores": 6,
+      "Frequency": 2.9,
+      "Price": 67500
     },
-     {
-      "Model":"Core i3",
-      "type":"10100F",
-      "Socket":"LGA1200",
-      "Number of cores":4,
-      "Frequency":3.6,
-      "Price":41200
+    {
+      "Model": "Core i3",
+      "type": "10100F",
+      "Socket": "LGA1200",
+      "Number of cores": 4,
+      "Frequency": 3.6,
+      "Price": 41200
     },
-     {
-      "Model":"Ryzen 5",
-      "type":"3600",
-      "Socket":"AM4",
-      "Number of cores":6,
-      "Frequency":3.6,
-      "Price":89900
+    {
+      "Model": "Ryzen 5",
+      "type": "3600",
+      "Socket": "AM4",
+      "Number of cores": 6,
+      "Frequency": 3.6,
+      "Price": 89900
     },
-     {
-      "Model":"Ryzen 3",
-      "type":"3100",
-      "Socket":"AM4",
-      "Number of cores":4,
-      "Frequency":3.6,
-      "Price":50300
+    {
+      "Model": "Ryzen 3",
+      "type": "3100",
+      "Socket": "AM4",
+      "Number of cores": 4,
+      "Frequency": 3.6,
+      "Price": 50300
     },
-     {
-      "Model":"Core i7",
-      "type":"10700",
-      "Socket":"LGA1200",
-      "Number of cores":8,
-      "Frequency":2.9,
-      "Price":153100
+    {
+      "Model": "Core i7",
+      "type": "10700",
+      "Socket": "LGA1200",
+      "Number of cores": 8,
+      "Frequency": 2.9,
+      "Price": 153100
     },
-     {
-      "Model":"Core i5",
-      "type":"9600K",
-      "Socket":"LGA1151",
-      "Number of cores":6,
-      "Frequency":3.7,
-      "Price":112700
+    {
+      "Model": "Core i5",
+      "type": "9600K",
+      "Socket": "LGA1151",
+      "Number of cores": 6,
+      "Frequency": 3.7,
+      "Price": 112700
     },
-     {
-      "Model":"Core i7",
-      "type":"9700F",
-      "Socket":"LGA1151",
-      "Number of cores":8,
-      "Frequency":3,
-      "Price":138900
+    {
+      "Model": "Core i7",
+      "type": "9700F",
+      "Socket": "LGA1151",
+      "Number of cores": 8,
+      "Frequency": 3,
+      "Price": 138900
     },
-     {
-      "Model":"Ryzen 5",
-      "type":"2600",
-      "Socket":"AM4",
-      "Number of cores":6,
-      "Frequency":3.4,
-      "Price":67500
+    {
+      "Model": "Ryzen 5",
+      "type": "2600",
+      "Socket": "AM4",
+      "Number of cores": 6,
+      "Frequency": 3.4,
+      "Price": 67500
     },
-     {
-      "Model":"Core i5",
-      "type":"7500",
-      "Socket":"LGA1151",
-      "Number of cores":4,
-      "Frequency":3.4,
-      "Price":100400
-    },
+    {
+      "Model": "Core i5",
+      "type": "7500",
+      "Socket": "LGA1151",
+      "Number of cores": 4,
+      "Frequency": 3.4,
+      "Price": 100400
+    }
   ],
-  
-  
+
+
   "Graphics card": [
     {
-      "Model":"GeForce GT 710",
-      "Frequency":954,
-      "Memory-frequency":5012,
-      "Memory":1,
-      "Price":19900
+      "Model": "GeForce GT 710",
+      "Frequency": 954,
+      "Memory-frequency": 5012,
+      "Memory": 1,
+      "Price": 19900
     },
     {
-      "Model":"Radeon RX 6900 XT",
-      "Frequency":2285,
-      "Memory-frequency":16000,
-      "Memory":16,
-      "Price":819900
+      "Model": "Radeon RX 6900 XT",
+      "Frequency": 2285,
+      "Memory-frequency": 16000,
+      "Memory": 16,
+      "Price": 819900
     },
     {
-      "Model":"GeForce 210",
-      "Frequency":520,
-      "Memory-frequency":1200,
-      "Memory":1,
+      "Model": "GeForce 210",
+      "Frequency": 520,
+      "Memory-frequency": 1200,
+      "Memory": 1,
       "Price":
     },
     {
-      "Model":"GeForce GTX 1650",
-      "Frequency":1590,
-      "Memory-frequency":12000,
-      "Memory":4,
-      "Price":20500
+      "Model": "GeForce GTX 1650",
+      "Frequency": 1590,
+      "Memory-frequency": 12000,
+      "Memory": 4,
+      "Price": 20500
     },
     {
-      "Model":"GeForce GTX 1650",
-      "Frequency":1785,
-      "Memory-frequency":12000,
-      "Memory":4,
-      "Price":109990
+      "Model": "GeForce GTX 1650",
+      "Frequency": 1785,
+      "Memory-frequency": 12000,
+      "Memory": 4,
+      "Price": 109990
     },
     {
-      "Model":"GeForce GTX1050Ti",
-      "Frequency":1480,
-      "Memory-frequency":7008,
-      "Memory":4,
-      "Price":143900
+      "Model": "GeForce GTX1050Ti",
+      "Frequency": 1480,
+      "Memory-frequency": 7008,
+      "Memory": 4,
+      "Price": 143900
     },
     {
-      "Model":"Radeon RX 550",
-      "Frequency":1203,
-      "Memory-frequency":6000,
-      "Memory":2,
-      "Price":110900
+      "Model": "Radeon RX 550",
+      "Frequency": 1203,
+      "Memory-frequency": 6000,
+      "Memory": 2,
+      "Price": 110900
     },
     {
-      "Model":"GeForce GTX1050Ti",
-      "Frequency":1455,
-      "Memory-frequency":7008,
-      "Memory":4,
-      "Price":39300
+      "Model": "GeForce GTX1050Ti",
+      "Frequency": 1455,
+      "Memory-frequency": 7008,
+      "Memory": 4,
+      "Price": 39300
     },
     {
-      "Model":"Radeon RX 6900 XT",
-      "Frequency":2340,
-      "Memory-frequency":16000,
-      "Memory":16,
-      "Price":93900
+      "Model": "Radeon RX 6900 XT",
+      "Frequency": 2340,
+      "Memory-frequency": 16000,
+      "Memory": 16,
+      "Price": 93900
     },
     {
-      "Model":"GeForce GTX 1650",
-      "Frequency":1590,
-      "Memory-frequency":12000,
-      "Memory":4,
-      "Price":1129900
+      "Model": "GeForce GTX 1650",
+      "Frequency": 1590,
+      "Memory-frequency": 12000,
+      "Memory": 4,
+      "Price": 1129900
     }
   ],
-  
-  
+
+
   "Motherboard": [
     {
-      "Socket":"1200",
-      "Chipset":"H470",
-      "Form-factor":"Mini-ITX",
-      "Memory-slot":2,
-      "Price":82100
+      "Socket": "1200",
+      "Chipset": "H470",
+      "Form-factor": "Mini-ITX",
+      "Memory-slot": 2,
+      "Price": 82100
     },
     {
-      "Socket":"1200",
-      "Chipset":"B460",
-      "Form-factor":"Mini-ITX",
-      "Memory-slot":2,
-      "Price":78200
+      "Socket": "1200",
+      "Chipset": "B460",
+      "Form-factor": "Mini-ITX",
+      "Memory-slot": 2,
+      "Price": 78200
     },
     {
-      "Socket":"1511",
-      "Chipset":"B360",
-      "Form-factor":"Mini-ITX",
-      "Memory-slot":2,
-      "Price":66100
+      "Socket": "1511",
+      "Chipset": "B360",
+      "Form-factor": "Mini-ITX",
+      "Memory-slot": 2,
+      "Price": 66100
     },
     {
-      "Socket":"AM4",
-      "Chipset":"H470",
-      "Form-factor":"Micro ATX",
-      "Memory-slot":4,
-      "Price":57200
+      "Socket": "AM4",
+      "Chipset": "H470",
+      "Form-factor": "Micro ATX",
+      "Memory-slot": 4,
+      "Price": 57200
     },
     {
-      "Socket":"AM4",
-      "Chipset":"AMD B450",
-      "Form-factor":"Micro ATX",
-      "Memory-slot":4,
-      "Price":53400
+      "Socket": "AM4",
+      "Chipset": "AMD B450",
+      "Form-factor": "Micro ATX",
+      "Memory-slot": 4,
+      "Price": 53400
     },
     {
-      "Socket":"AM4",
-      "Chipset":"AMD B450",
-      "Form-factor":"ATX",
-      "Memory-slot":4,
-      "Price":61900
+      "Socket": "AM4",
+      "Chipset": "AMD B450",
+      "Form-factor": "ATX",
+      "Memory-slot": 4,
+      "Price": 61900
     },
     {
-      "Socket":"AM4",
-      "Chipset":"Z490",
-      "Form-factor":"ATX",
-      "Memory-slot":2,
-      "Price":234200
+      "Socket": "AM4",
+      "Chipset": "Z490",
+      "Form-factor": "ATX",
+      "Memory-slot": 2,
+      "Price": 234200
     },
     {
-      "Socket":"LGA1200",
-      "Chipset":"AMD X570",
-      "Form-factor":"ATX",
-      "Memory-slot":4,
-      "Price":147400
+      "Socket": "LGA1200",
+      "Chipset": "AMD X570",
+      "Form-factor": "ATX",
+      "Memory-slot": 4,
+      "Price": 147400
     },
     {
-      "Socket":"LGA1511",
-      "Chipset":"H370",
-      "Form-factor":"Micro ATX",
-      "Memory-slot":2,
-      "Price":26900
+      "Socket": "LGA1511",
+      "Chipset": "H370",
+      "Form-factor": "Micro ATX",
+      "Memory-slot": 2,
+      "Price": 26900
     },
     {
-      "Socket":"AM4",
-      "Chipset":"AMD B450",
-      "Form-factor":"Micro ATX",
-      "Memory-slot":4,
-      "Price":40800
+      "Socket": "AM4",
+      "Chipset": "AMD B450",
+      "Form-factor": "Micro ATX",
+      "Memory-slot": 4,
+      "Price": 40800
     }
   ],
-  
-  
+
+
   "Power Supply": [
     {
-      "Power":750,
-      "Standart":"Bronze",
-      "SATA connectors":8,
-      "Brand":"ASUS",
-      "Price":65700
+      "Power": 750,
+      "Standart": "Bronze",
+      "SATA connectors": 8,
+      "Brand": "ASUS",
+      "Price": 65700
     },
     {
-      "Power":650,
-      "Standart":"Gold",
-      "SATA connectors":6,
-      "Brand":"AeroCool",
-      "Price":31400
+      "Power": 650,
+      "Standart": "Gold",
+      "SATA connectors": 6,
+      "Brand": "AeroCool",
+      "Price": 31400
     },
     {
-      "Power":750,
-      "Standart":"Gold",
-      "SATA connectors":8,
-      "Brand":"AeroCool",
-      "Price":34900
+      "Power": 750,
+      "Standart": "Gold",
+      "SATA connectors": 8,
+      "Brand": "AeroCool",
+      "Price": 34900
     },
     {
-      "Power":850,
-      "Standart":"Gold",
-      "SATA connectors":8,
-      "Brand":"AeroCool",
-      "Price":37700
+      "Power": 850,
+      "Standart": "Gold",
+      "SATA connectors": 8,
+      "Brand": "AeroCool",
+      "Price": 37700
     },
     {
-      "Power":1000,
-      "Standart":"Gold",
-      "SATA connectors":10,
-      "Brand":"AeroCool",
-      "Price":65700
+      "Power": 1000,
+      "Standart": "Gold",
+      "SATA connectors": 10,
+      "Brand": "AeroCool",
+      "Price": 65700
     },
     {
-      "Power":650,
-      "Standart":"Gold",
-      "SATA connectors":9,
-      "Brand":"ChiefTech",
-      "Price":41800
+      "Power": 650,
+      "Standart": "Gold",
+      "SATA connectors": 9,
+      "Brand": "ChiefTech",
+      "Price": 41800
     },
     {
-      "Power":750,
-      "Standart":"Gold",
-      "SATA connectors":8,
-      "Brand":"Antec",
-      "Price":44900
+      "Power": 750,
+      "Standart": "Gold",
+      "SATA connectors": 8,
+      "Brand": "Antec",
+      "Price": 44900
     },
     {
-      "Power":450,
-      "Standart":"Null",
-      "SATA connectors":4,
-      "Brand":"ChiefTech",
-      "Price":24300
+      "Power": 450,
+      "Standart": "Null",
+      "SATA connectors": 4,
+      "Brand": "ChiefTech",
+      "Price": 24300
     },
     {
-      "Power":500,
-      "Standart":"Null",
-      "SATA connectors":3,
-      "Brand":"ChiefTech",
-      "Price":19900
+      "Power": 500,
+      "Standart": "Null",
+      "SATA connectors": 3,
+      "Brand": "ChiefTech",
+      "Price": 19900
     },
     {
-      "Power":500,
-      "Standart":"Null",
-      "SATA connectors":5,
-      "Brand":"ChiefTech",
-      "Price":18700
-    },
-    
+      "Power": 500,
+      "Standart": "Null",
+      "SATA connectors": 5,
+      "Brand": "ChiefTech",
+      "Price": 18700
+    }
+
   ],
-"RAM":[
-  {
-    "Brand":"Kingston HyperX",
-    "Type":"DDR4",
-    "Memory":64,
-    "Frequency":3200,
-    "Price":185900
-  },
-  {
-    "Brand":"Kingston HyperX",
-    "Type":"DDR4",
-    "Memory":64,
-    "Frequency":3200,
-    "Price":177800
-  },
-  {
-    "Brand":"Kingston HyperX",
-    "Type":"DDR4",
-    "Memory":64,
-    "Frequency":3600,
-    "Price":199700
-  },
-  {
-    "Brand":"Kingston HyperX",
-    "Type":"DDR4",
-    "Memory":64,
-    "Frequency":3000,
-    "Price":172800
-  },
-  {
-    "Brand":"Kingston HyperX",
-    "Type":"DDR4",
-    "Memory":64,
-    "Frequency":3000,
-    "Price":168400
-  },
-  {
-    "Brand":"Kingston HyperX",
-    "Type":"DDR4",
-    "Memory":64,
-    "Frequency":3200,
-    "Price":173400
-  },
-  {
-    "Brand":"G.SKILL",
-    "Type":"DDR4",
-    "Memory":32,
-    "Frequency":3200,
-    "Price":97900
-  },
-  {
-    "Brand":"G.SKILL",
-    "Type":"DDR4",
-    "Memory":16,
-    "Frequency":2666,
-    "Price":49200
-  },
-  {
-    "Brand":"G.SKILL",
-    "Type":"DDR4",
-    "Memory":16,
-    "Frequency":2666,
-    "Price":49200
-  },
-  {
-    "Brand":"G.SKILL",
-    "Type":"DDR4",
-    "Memory":32,
-    "Frequency":3200,
-    "Price":104800
-  }]
-}
+  "RAM": [
+    {
+      "Brand": "Kingston HyperX",
+      "Type": "DDR4",
+      "Memory": 64,
+      "Frequency": 3200,
+      "Price": 185900
+    },
+    {
+      "Brand": "Kingston HyperX",
+      "Type": "DDR4",
+      "Memory": 64,
+      "Frequency": 3200,
+      "Price": 177800
+    },
+    {
+      "Brand": "Kingston HyperX",
+      "Type": "DDR4",
+      "Memory": 64,
+      "Frequency": 3600,
+      "Price": 199700
+    },
+    {
+      "Brand": "Kingston HyperX",
+      "Type": "DDR4",
+      "Memory": 64,
+      "Frequency": 3000,
+      "Price": 172800
+    },
+    {
+      "Brand": "Kingston HyperX",
+      "Type": "DDR4",
+      "Memory": 64,
+      "Frequency": 3000,
+      "Price": 168400
+    },
+    {
+      "Brand": "Kingston HyperX",
+      "Type": "DDR4",
+      "Memory": 64,
+      "Frequency": 3200,
+      "Price": 173400
+    },
+    {
+      "Brand": "G.SKILL",
+      "Type": "DDR4",
+      "Memory": 32,
+      "Frequency": 3200,
+      "Price": 97900
+    },
+    {
+      "Brand": "G.SKILL",
+      "Type": "DDR4",
+      "Memory": 16,
+      "Frequency": 2666,
+      "Price": 49200
+    },
+    {
+      "Brand": "G.SKILL",
+      "Type": "DDR4",
+      "Memory": 16,
+      "Frequency": 2666,
+      "Price": 49200
+    },
+    {
+      "Brand": "G.SKILL",
+      "Type": "DDR4",
+      "Memory": 32,
+      "Frequency": 3200,
+      "Price": 104800
+    }
+  ]
 }
