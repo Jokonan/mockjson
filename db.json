@@ -8,32 +8,236 @@
       "Frequency":
       "Price":
     },
+     {
+      "Model":
+      "type":
+      "Socket":
+      "Number of cores":
+      "Frequency":
+      "Price":
+    },
+     {
+      "Model":
+      "type":
+      "Socket":
+      "Number of cores":
+      "Frequency":
+      "Price":
+    },
+     {
+      "Model":
+      "type":
+      "Socket":
+      "Number of cores":
+      "Frequency":
+      "Price":
+    },
+     {
+      "Model":
+      "type":
+      "Socket":
+      "Number of cores":
+      "Frequency":
+      "Price":
+    },
+     {
+      "Model":
+      "type":
+      "Socket":
+      "Number of cores":
+      "Frequency":
+      "Price":
+    },
+     {
+      "Model":
+      "type":
+      "Socket":
+      "Number of cores":
+      "Frequency":
+      "Price":
+    },
+     {
+      "Model":
+      "type":
+      "Socket":
+      "Number of cores":
+      "Frequency":
+      "Price":
+    },
+     {
+      "Model":
+      "type":
+      "Socket":
+      "Number of cores":
+      "Frequency":
+      "Price":
+    },
+     {
+      "Model":
+      "type":
+      "Socket":
+      "Number of cores":
+      "Frequency":
+      "Price":
+    },
   ],
   
   
   "Graphics card": [
     {
-      "id": 1,
-      "body": "comment 1",
-      "postId": 1
+      "Model":
+      "Frequency":
+      "Memory-frequency":
+      "Memory":
+      "Price":
+    },
+    {
+      "Model":
+      "Frequency":
+      "Memory-frequency":
+      "Memory":
+      "Price":
+    },
+    {
+      "Model":
+      "Frequency":
+      "Memory-frequency":
+      "Memory":
+      "Price":
+    },
+    {
+      "Model":
+      "Frequency":
+      "Memory-frequency":
+      "Memory":
+      "Price":
+    },
+    {
+      "Model":
+      "Frequency":
+      "Memory-frequency":
+      "Memory":
+      "Price":
+    },
+    {
+      "Model":
+      "Frequency":
+      "Memory-frequency":
+      "Memory":
+      "Price":
+    },
+    {
+      "Model":
+      "Frequency":
+      "Memory-frequency":
+      "Memory":
+      "Price":
+    },
+    {
+      "Model":
+      "Frequency":
+      "Memory-frequency":
+      "Memory":
+      "Price":
+    },
+    {
+      "Model":
+      "Frequency":
+      "Memory-frequency":
+      "Memory":
+      "Price":
+    },
+    {
+      "Model":
+      "Frequency":
+      "Memory-frequency":
+      "Memory":
+      "Price":
     }
   ],
   
   
   "Motherboard": [
     {
-    "name": "Profile 1"
-  }
-                 ],
+      "Socket":
+      "Chipset":
+      "Form-factor":
+      "Memory-slot":
+      "Price":
+    },
+    {
+      "Socket":
+      "Chipset":
+      "Form-factor":
+      "Memory-slot":
+      "Price":
+    },
+    {
+      "Socket":
+      "Chipset":
+      "Form-factor":
+      "Memory-slot":
+      "Price":
+    },
+    {
+      "Socket":
+      "Chipset":
+      "Form-factor":
+      "Memory-slot":
+      "Price":
+    },
+    {
+      "Socket":
+      "Chipset":
+      "Form-factor":
+      "Memory-slot":
+      "Price":
+    },
+    {
+      "Socket":
+      "Chipset":
+      "Form-factor":
+      "Memory-slot":
+      "Price":
+    },
+    {
+      "Socket":
+      "Chipset":
+      "Form-factor":
+      "Memory-slot":
+      "Price":
+    },
+    {
+      "Socket":
+      "Chipset":
+      "Form-factor":
+      "Memory-slot":
+      "Price":
+    },
+    {
+      "Socket":
+      "Chipset":
+      "Form-factor":
+      "Memory-slot":
+      "Price":
+    },
+    {
+      "Socket":
+      "Chipset":
+      "Form-factor":
+      "Memory-slot":
+      "Price":
+    }
+  ],
   
   
   "Power Supply": [
-  {
-}
-],
+    {
+    }
+  ],
 "RAM":[
   {
-}
+  }
 ]
   
   
